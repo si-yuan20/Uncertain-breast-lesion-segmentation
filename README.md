@@ -164,7 +164,3 @@ If you find this work useful, please cite our paper:
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🙏 Acknowledgments
-
-This work was supported by the Project of Administration of Traditional Chinese Medicine of Guangdong Province (Grant No. 20261203) and the Guangdong Undergraduate Teaching Quality and Teaching Reform Project (Smart Rehabilitation Modern Industry Institute). We thank the Department of Medical Imaging Center, Guangxi Medical University Cancer Hospital for providing the dataset.
